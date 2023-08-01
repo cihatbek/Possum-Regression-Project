@@ -2,9 +2,11 @@
 ## Regression project for learning purposes 
 
 patika.dev
-Dataset from Kaggle https://www.kaggle.com/datasets/abrambeyer/openintro-possum
 
 ## About Dataset
+
+Dataset from Kaggle https://www.kaggle.com/datasets/abrambeyer/openintro-possum
+
 ### Context
 Can you use your regression skills to predict the age of a possum, its head length, whether it is male or female? This classic practice regression dataset comes originally from the DAAG R package (datasets used in examples and exercises in the book Maindonald, J.H. and Braun, W.J. (2003, 2007, 2010) "Data Analysis and Graphics Using R"). This dataset is also used in the OpenIntro Statistics book chapter 8 Introduction to linear regression.
 
